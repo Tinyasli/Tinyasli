@@ -1,67 +1,69 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Fino Wildan Ramadan",
+    "username": "Tinyasli",
+    "headline": "Mobile Developer",
+    "affiliation": "Binus University",
+    "location": "Bogor, Indonesia",
+    "status": "Learning, Building, Shipping",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build mobile applications that combine clean design with reliable performance across Android and cross-platform tooling."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Mobile Developer",
+    "direction": "Fast, reliable mobile experiences",
+    "themes": "Cross-platform apps, UI/UX, Architecture",
+    "narrative": "I am interested in building mobile applications that are fast, intuitive, and reliable across platforms, with a focus on clean architecture and great user experience."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Mobile Development",
+      "description": "Building cross-platform mobile apps with clean architecture and smooth user experience."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Flutter",
+      "description": "Building fast, single-codebase mobile apps for iOS and Android with Flutter."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Android",
+      "description": "Developing native Android apps with clean architecture and solid performance."
+    },
+    {
+      "name": "UI/UX",
+      "description": "Designing intuitive, accessible interfaces that make apps easy and enjoyable to use."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Trofes Mobile",
+      "url": "https://github.com/Tinyasli/trofes-mobile",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Food detection for diet & nutrition",
+      "summary": "Trofes Mobile detects food objects through the camera and helps users track vegetable and protein intake for diet or bulking programs.",
+      "heroLabel": "Food Detection"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "LibFox",
+      "url": "https://github.com/Tinyasli/LibFox",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Android app for library book management",
+      "summary": "LibFox is an Android application for managing and organizing a library's book collection.",
+      "heroLabel": "Library App"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "Kotlin",
+    "Java",
+    "C",
+    "PostgreSQL"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Tinyasli",
+      "url": "https://github.com/Tinyasli",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +75,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building useful mobile apps and learning something new with every project."
 }
